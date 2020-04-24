@@ -1,0 +1,43 @@
+{
+  "ret":true,
+  "data": {
+      "userinfo":[
+        {
+          "id": "01",
+          "usertitle": "管理员",
+          "username": "admin",
+          "password": "123456",
+          "token": "1187403795136",
+          "chengzhangdengji":"V0",
+          "xinyufennum":"12",
+          "totalprice":"213.28",
+          "jinbi":"80",
+          "yaoqingshouyi":"16.77"
+        },
+        {
+          "id": "02",
+          "usertitle": "超级管理员",
+          "username": "root",
+          "password": "12345",
+          "token": "441469331261",
+          "chengzhangdengji":"V10",
+          "xinyufennum":"99",
+          "totalprice":"9999.99",
+          "jinbi":"1000",
+          "yaoqingshouyi":"1000.00"
+        },
+        {
+          "id": "03",
+          "usertitle": "普通会员",
+          "username": "春夏暖阳",
+          "password": "12345",
+          "token": "86775432598075",
+          "chengzhangdengji":"V2",
+          "xinyufennum":"15",
+          "totalprice":"2974.36",
+          "jinbi":"200",
+          "yaoqingshouyi":"15.79"
+        }
+    ]
+  }
+}

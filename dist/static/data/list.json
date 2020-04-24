@@ -1,0 +1,363 @@
+{
+    "ret": true,
+    "data": {
+      "chaojifanList": [
+        {
+          "id": "010001",
+          "chaojifanimg": "static/images/dadikuwc.jpg",
+          "icon": "static/icon/tianmao.png",
+          "title": "【限时优惠】高腰收腹提臀打底裤外穿1条",
+          "jiage": "29.00",
+          "shengyufenshu": "4",
+          "zongfenshu": "30",
+          "yuanjia": "96.00",
+          "fanhuan": "67"
+        },
+        {
+          "id": "010002",
+          "chaojifanimg": "static/images/xishouye.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时优惠】现乙醇酒精消毒液75洗手液100ml",
+          "jiage": "9.90",
+          "shengyufenshu": "84",
+          "zongfenshu": "100",
+          "yuanjia": "20.00",
+          "fanhuan": "10.1"
+        },
+        {
+          "id": "010003",
+          "chaojifanimg": "static/images/004.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【现时优惠】女装韩版夏季小清新上衣一件",
+          "jiage": "24.90",
+          "shengyufenshu": "8",
+          "zongfenshu": "10",
+          "yuanjia": "49.80",
+          "fanhuan": "24.9"
+        },
+        {
+          "id": "010004",
+          "chaojifanimg": "static/images/005.jpg",
+          "icon": "static/icon/jingdong.png",
+          "title": "【现时优惠】彩色无痕双面胶防水胶带贴一卷",
+          "jiage": "1.08",
+          "shengyufenshu": "4",
+          "zongfenshu": "10",
+          "yuanjia": "9.00",
+          "fanhuan": "7.2"
+        },
+        {
+          "id": "010005",
+          "chaojifanimg": "static/images/006.jpg",
+          "icon": "static/icon/jingdong.png",
+          "title": "【现时免单】云南古法黑糖老红糖块1盒",
+          "jiage": "3.90",
+          "shengyufenshu": "6",
+          "zongfenshu": "10",
+          "yuanjia": "19.80",
+          "fanhuan": "15.9"
+        },
+        {
+          "id": "010006",
+          "chaojifanimg": "static/images/fengmi.jpg",
+          "icon": "static/icon/jingdong.png",
+          "title": "【限时优惠】蜂蜜天然纯野生深山百花蜜50g",
+          "jiage": "3.18",
+          "shengyufenshu": "9",
+          "zongfenshu": "0",
+          "yuanjia": "15.90",
+          "fanhuan": "12.72"
+        },
+        {
+          "id": "010007",
+          "chaojifanimg": "static/images/danhuangshu.jpg",
+          "icon": "static/icon/tianmao.png",
+          "title": "【限时免单】享津津乳酸菌蛋黄酥流心麻薯6枚",
+          "jiage": "0.00",
+          "shengyufenshu": "0",
+          "zongfenshu": "10",
+          "yuanjia": "23.90",
+          "fanhuan": "23.90"
+        },
+        {
+          "id": "010008",
+          "chaojifanimg": "static/images/chenshan.jpg",
+          "icon": "static/icon/jingdong.png",
+          "title": "【限时优惠】2020春秋新款V领收腰薄款衬衫女装显瘦",
+          "jiage": "29.90",
+          "shengyufenshu": "9",
+          "zongfenshu": "10",
+          "yuanjia": "59.80",
+          "fanhuan": "29.90"
+        },
+        {
+          "id": "030001",
+          "chaojifanimg": "static/images/erji.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时优惠】四核双动圈入耳式有线耳机一副",
+          "jiage": "11.60",
+          "shengyufenshu": "1",
+          "zongfenshu": "14",
+          "yuanjia": "58.00",
+          "fanhuan": "46.4"
+        },
+        {
+          "id": "030002",
+          "chaojifanimg": "static/images/dadikujr.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时优惠】320g加绒加厚防污打底裤1条",
+          "jiage": "24.60",
+          "shengyufenshu": "25",
+          "zongfenshu": "50",
+          "yuanjia": "49.30",
+          "fanhuan": "24.7"
+        },
+        {
+          "id": "030003",
+          "chaojifanimg": "static/images/li.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时优惠】脆甜新鲜雪梨皇冠酥梨5斤带箱",
+          "jiage": "17.90",
+          "shengyufenshu": "7",
+          "zongfenshu": "15",
+          "yuanjia": "35.80",
+          "fanhuan": "17.9"
+        },
+        {
+          "id": "030004",
+          "chaojifanimg": "static/images/madingxue.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时优惠】真皮马丁靴女新款英伦百搭1双",
+          "jiage": "19.90",
+          "shengyufenshu": "3",
+          "zongfenshu": "10",
+          "yuanjia": "49.90",
+          "fanhuan": "30"
+        },
+        {
+          "id": "030005",
+          "chaojifanimg": "static/images/xifalu.jpg",
+          "icon": "static/icon/tianmao.png",
+          "title": "【限时优惠】网红款香氛洗发水500ML",
+          "jiage": "5.00",
+          "shengyufenshu": "13",
+          "zongfenshu": "20",
+          "yuanjia": "29.90",
+          "fanhuan": "14.9"
+        },
+        {
+          "id": "030006",
+          "chaojifanimg": "static/images/sanjiaku.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时优惠】6条女士抗菌三角裤",
+          "jiage": "25.00",
+          "shengyufenshu": "10",
+          "zongfenshu": "15",
+          "yuanjia": "65.80",
+          "fanhuan": "40.8"
+        },
+        {
+          "id": "030007",
+          "chaojifanimg": "static/images/lianyiqun.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时优惠】2020新款chic连衣裙女春",
+          "jiage": "19.00",
+          "shengyufenshu": "21",
+          "zongfenshu": "30",
+          "yuanjia": "39.00",
+          "fanhuan": "20"
+        },
+        {
+          "id": "030008",
+          "chaojifanimg": "static/images/erji.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时优惠】四核双动圈入耳式有线耳机一副",
+          "jiage": "11.60",
+          "shengyufenshu": "1",
+          "zongfenshu": "14",
+          "yuanjia": "58.00",
+          "fanhuan": "46.4"
+        },
+        {
+          "id": "030009",
+          "chaojifanimg": "static/images/dadikujr.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时优惠】320g加绒加厚防污打底裤1条",
+          "jiage": "24.60",
+          "shengyufenshu": "25",
+          "zongfenshu": "50",
+          "yuanjia": "49.30",
+          "fanhuan": "24.7"
+        },
+        {
+          "id": "030010",
+          "chaojifanimg": "static/images/li.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时优惠】脆甜新鲜雪梨皇冠酥梨5斤带箱",
+          "jiage": "17.90",
+          "shengyufenshu": "7",
+          "zongfenshu": "15",
+          "yuanjia": "35.80",
+          "fanhuan": "17.9"
+        },
+        {
+          "id": "030011",
+          "chaojifanimg": "static/images/madingxue.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时优惠】真皮马丁靴女新款英伦百搭1双",
+          "jiage": "19.90",
+          "shengyufenshu": "3",
+          "zongfenshu": "10",
+          "yuanjia": "49.90",
+          "fanhuan": "30"
+        },
+        {
+          "id": "030012",
+          "chaojifanimg": "static/images/xifalu.jpg",
+          "icon": "static/icon/tianmao.png",
+          "title": "【限时优惠】网红款香氛洗发水500ML",
+          "jiage": "5.00",
+          "shengyufenshu": "13",
+          "zongfenshu": "20",
+          "yuanjia": "29.90",
+          "fanhuan": "14.9"
+        },
+        {
+          "id": "030013",
+          "chaojifanimg": "static/images/sanjiaku.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时优惠】6条女士抗菌三角裤",
+          "jiage": "25.00",
+          "shengyufenshu": "10",
+          "zongfenshu": "15",
+          "yuanjia": "65.80",
+          "fanhuan": "40.8"
+        },
+        {
+          "id": "030014",
+          "chaojifanimg": "static/images/lianyiqun.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时优惠】2020新款chic连衣裙女春",
+          "jiage": "19.00",
+          "shengyufenshu": "21",
+          "zongfenshu": "30",
+          "yuanjia": "39.00",
+          "fanhuan": "20"
+        }
+      ],
+      "mianfeiList": [
+        {
+          "id": "020001",
+          "mianfeiimg": "static/images/erhuan.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时免单】【预售】几何菱形显瘦耳环新款1对",
+          "jiazhi": "29.60",
+          "xianliang": "39",
+          "shenqingnum": "26",
+          "shengyujinbiduihuan":"2"
+        },
+        {
+          "id": "020002",
+          "mianfeiimg": "static/images/shouchuan.jpg",
+          "icon": "static/icon/tianmao.png",
+          "title": "【限时免单】白玉菩提手串1串",
+          "jiazhi": "48.00",
+          "xianliang": "10",
+          "shenqingnum": "30",
+          "shengyujinbiduihuan":"5"
+        },
+        {
+          "id": "020003",
+          "mianfeiimg": "static/images/dxrchenshan.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时免单】灯芯绒衬衫女宽松长袖一件",
+          "jiazhi": "29.90",
+          "xianliang": "12",
+          "shenqingnum": "22",
+          "shengyujinbiduihuan":"0"
+        },
+        {
+          "id": "020004",
+          "mianfeiimg": "static/images/jydzhiwu.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时免单】静夜多肉植物1颗+种子千粒",
+          "jiazhi": "9.00",
+          "xianliang": "14",
+          "shenqingnum": "209",
+          "shengyujinbiduihuan":"7"
+        },
+        {
+          "id": "020005",
+          "mianfeiimg": "static/images/xgshuiyi.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时免单】粉色透明性感睡衣一件",
+          "jiazhi": "29.90",
+          "xianliang": "10",
+          "shenqingnum": "172",
+          "shengyujinbiduihuan":"12"
+        },
+        {
+          "id": "020006",
+          "mianfeiimg": "static/images/wanlianp.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时免单】2份碗莲种子2份盆泥液",
+          "jiazhi": "9.90",
+          "xianliang": "10",
+          "shenqingnum": "15",
+          "shengyujinbiduihuan":"3"
+        },
+        {
+          "id": "020007",
+          "mianfeiimg": "static/images/kouhong.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时免单】芭比粉口红1支",
+          "jiazhi": "13.80",
+          "xianliang": "10",
+          "shenqingnum": "9",
+          "shengyujinbiduihuan":"0"
+        },
+        {
+          "id": "020008",
+          "mianfeiimg": "static/images/hongkuaizi.jpg",
+          "icon": "static/icon/jingdong.png",
+          "title": "【限时免单】精品红木筷子一双",
+          "jiazhi": "68.00",
+          "xianliang": "30",
+          "shenqingnum": "263",
+          "shengyujinbiduihuan":"1"
+        },
+        {
+          "id": "020009",
+          "mianfeiimg": "static/images/qidian.jpg",
+          "icon": "static/icon/jingdong.png",
+          "title": "【限时免单】温度光感水润气垫BB霜15g",
+          "jiazhi": "59.00",
+          "xianliang": "18",
+          "shenqingnum": "207",
+          "shengyujinbiduihuan":"11"
+        },
+        {
+          "id": "020010",
+          "mianfeiimg": "static/images/dadiku.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时免单】女士打底裤一件",
+          "jiazhi": "9.90",
+          "xianliang": "40",
+          "shenqingnum": "152",
+          "shengyujinbiduihuan":"4"
+        },
+        {
+          "id": "020011",
+          "mianfeiimg": "static/images/wanlianh.jpg",
+          "icon": "static/icon/taobao.png",
+          "title": "【限时免单】2份碗莲种子2份盆泥液",
+          "jiazhi": "9.90",
+          "xianliang": "10",
+          "shenqingnum": "5",
+          "shengyujinbiduihuan":"0"
+        }
+      ],
+      "shiyongtitle":"试用详情",
+      "huodongtitle":"活动详情"
+    }
+}

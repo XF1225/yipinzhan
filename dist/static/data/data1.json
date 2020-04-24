@@ -1,0 +1,284 @@
+{
+    "ret": true,
+    "data": {
+      "mianfeititle": "免费试用",
+      "chaojifantitle": "超级返",
+      "hdztList": [
+        {
+          "title": "活动状态",
+          "desc": [
+            {
+              "id": "001-01",
+              "name": "全部",
+              "isactiving": true
+            },
+            {
+              "id": "001-02",
+              "name": "即将开始",
+              "isactiving": false
+            },
+            {
+              "id": "001-03",
+              "name": "正在抢购",
+              "isactiving": false
+            },
+            {
+              "id": "001-04",
+              "name": "待追加",
+              "isactiving": false
+            }
+          ]
+        }
+      ],
+      "spflList": [
+        {
+          "title": "商品分类",
+          "desc": [
+            {
+              "id": "002-01",
+              "name": "全部分类",
+              "isactiving": true
+            },
+            {
+              "id": "002-02",
+              "name": "潮流女装",
+              "isactiving": false
+            },
+            {
+              "id": "002-03",
+              "name": "美容护肤",
+              "isactiving": false
+            },
+            {
+              "id": "002-04",
+              "name": "鞋子箱包",
+              "isactiving": false
+            },
+            {
+              "id": "002-05",
+              "name": "时尚配饰",
+              "isactiving": false
+            },
+            {
+              "id": "002-06",
+              "name": "美食特产",
+              "isactiving": false
+            },
+            {
+              "id": "002-07",
+              "name": "精品男装",
+              "isactiving": false
+            },
+            {
+              "id": "002-08",
+              "name": "数码家电",
+              "isactiving": false
+            },
+            {
+              "id": "002-09",
+              "name": "家居日用",
+              "isactiving": false
+            },
+            {
+              "id": "002-10",
+              "name": "母婴用品",
+              "isactiving": false
+            },
+            {
+              "id": "002-11",
+              "name": "综合商品",
+              "isactiving": false
+            }
+          ]
+        }
+      ],
+      "sxtjList": [
+        {
+          "title": "筛选条件",
+          "desc": [
+            {
+              "id": "003-01",
+              "name": "我未抢购的",
+              "isSelected": false
+            },
+            {
+              "id": "003-02",
+              "name": "新品",
+              "isSelected": false
+            },
+            {
+              "id": "003-03",
+              "name": "普通下单",
+              "isSelected": false
+            },
+            {
+              "id": "003-04",
+              "name": "搜索下单",
+              "isSelected": false
+            },
+            {
+              "id": "003-05",
+              "name": "淘口令",
+              "isSelected": false
+            },
+            {
+              "id": "003-06",
+              "name": "二维码",
+              "isSelected": false
+            },
+            {
+              "id": "003-07",
+              "name": "信用卡支付",
+              "isSelected": false
+            },
+            {
+              "id": "003-08",
+              "name": "花呗支付",
+              "isSelected": false
+            },
+            {
+              "id": "003-09",
+              "name": "不限规格",
+              "isSelected": false
+            }
+          ]
+        }
+      ],
+      "mleixingList": [
+        {
+          "title": "类型",
+          "desc": [
+            {
+              "id": "010-01",
+              "name": "全部类型",
+              "isactiving": true
+            },
+            {
+              "id": "010-02",
+              "name": "高价值试用",
+              "isactiving": false
+            },
+            {
+              "id": "010-03",
+              "name": "高中奖率",
+              "isactiving": false
+            },
+            {
+              "id": "010-04",
+              "name": "新人专享",
+              "isactiving": false
+            }
+          ]
+        }
+      ],
+      "mspflList": [
+        {
+          "title": "商品分类",
+          "desc": [
+            {
+              "id": "020-01",
+              "name": "全部分类",
+              "isactiving": true
+            },
+            {
+              "id": "020-02",
+              "name": "潮流女装",
+              "isactiving": false
+            },
+            {
+              "id": "020-03",
+              "name": "美容护肤",
+              "isactiving": false
+            },
+            {
+              "id": "020-04",
+              "name": "鞋子箱包",
+              "isactiving": false
+            },
+            {
+              "id": "020-05",
+              "name": "时尚配饰",
+              "isactiving": false
+            },
+            {
+              "id": "020-06",
+              "name": "美食特产",
+              "isactiving": false
+            },
+            {
+              "id": "020-07",
+              "name": "精品男装",
+              "isactiving": false
+            },
+            {
+              "id": "020-08",
+              "name": "数码家电",
+              "isactiving": false
+            },
+            {
+              "id": "020-09",
+              "name": "家居日用",
+              "isactiving": false
+            },
+            {
+              "id": "020-10",
+              "name": "母婴用品",
+              "isactiving": false
+            },
+            {
+              "id": "020-11",
+              "name": "综合商品",
+              "isactiving": false
+            }
+          ]
+        }
+      ],
+      "msxtjList": [
+        {
+          "title": "筛选条件",
+          "desc": [
+            {
+              "id": "030-01",
+              "name": "我未申请的",
+              "isSelected": false
+            },
+            {
+              "id": "030-02",
+              "name": "新品",
+              "isSelected": false
+            },
+            {
+              "id": "030-03",
+              "name": "电脑申请",
+              "isSelected": false
+            },
+            {
+              "id": "030-04",
+              "name": "金币兑换",
+              "isSelected": false
+            },
+            {
+              "id": "030-05",
+              "name": "信用卡支付",
+              "isSelected": false
+            },
+            {
+              "id": "030-06",
+              "name": "花呗支付",
+              "isSelected": false
+            },
+            {
+              "id": "030-07",
+              "name": "不限规格",
+              "isSelected": false
+            },
+            {
+              "id": "030-08",
+              "name": "优质推荐",
+              "isSelected": false
+            }
+          ]
+        }
+      ]
+    }
+}
