@@ -41,8 +41,8 @@ export default {
         },
         {
           touxiang: './static/images/002.jpg',
-          name: 'ypz_1261',
-          detail: '好美的果盘，谢谢商家给的试用品',
+          name: '请把微笑带回家',
+          detail: '玩得很开心，吃的用的应有尽有，关键是还不花钱！',
           main: './static/images/002.jpg'
           // https://www.cnblogs.com/benmumu/p/9285197.html
         }
